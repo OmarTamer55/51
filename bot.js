@@ -19,7 +19,7 @@ var channel = "id room";//514182082855960576
     },400);
 })
 
-client.login(NTEzNDg4ODQ2MDc2MjQ4MDY0.DtS1TQ.qXC1Y1p0hI3N6239BAnsYsLkL-o);
+
 
 
 
