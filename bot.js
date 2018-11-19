@@ -2,21 +2,13 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 
 client.on('ready', () => {
-    console.log('I am ready!');
-});
-
-
-
-
-
-
-
-const Discord = require('discord.js');
-const client = new Discord.Client();
-
-client.on('ready', () => {
   console.log(Logged in as ${client.user.tag}!);
 });
+
+
+
+
+
 
 
 client.on('ready', async() => {
@@ -36,4 +28,4 @@ client.login(NTEzNDg4ODQ2MDc2MjQ4MDY0.DtS1TQ.qXC1Y1p0hI3N6239BAnsYsLkL-o);
 
 
 // THIS  MUST  BE  THIS  WAY
-client.login(process.env.BOT_TOKEN);
+client.login(NTEzNDg4ODQ2MDc2MjQ4MDY0.DtS1TQ.qXC1Y1p0hI3N6239BAnsYsLkL-o);
